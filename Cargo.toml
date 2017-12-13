@@ -1,0 +1,9 @@
+[package]
+name = "rust-python-ffi"
+version = "0.1.0"
+authors = ["Jon Miller <jondelmil@gmail.com>"]
+
+[dependencies]
+
+[lib]
+crate-type = ["dylib"]
